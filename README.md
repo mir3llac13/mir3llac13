@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">I'm a third-year Computer Engineering student at Karabuk University.</h3>
 
-- 🌱 I’m currently learning **Python**
+
 
 - 📫 How to reach me **meryembetulm13@gmail.com**
 
